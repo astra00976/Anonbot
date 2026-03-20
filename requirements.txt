@@ -1,5 +1,4 @@
-python-telegram-bot==20.7
+
 pyTelegramBotAPI
 requests
-
-
+python-telegram-bot==13.15
